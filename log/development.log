@@ -641,3 +641,444 @@ Served asset /gplus.png - 200 OK (0ms)
 
 Started GET "/assets/stevia%20kraut.jpg" for 127.0.0.1 at 2012-08-28 11:07:47 +0200
 Served asset /stevia%20kraut.jpg - 200 OK (0ms)
+
+
+Started GET "/stevia_gesundheit/" for 127.0.0.1 at 2012-08-28 11:23:43 +0200
+Connecting to database specified by database.yml
+Processing by PagesController#stevia_gesundheit as HTML
+  Rendered pages/stevia_gesundheit.html.erb within layouts/application (5.0ms)
+Compiled bootstrap_and_overrides.css  (1074ms)  (pid 13038)
+Compiled pages.css  (34ms)  (pid 13038)
+Compiled scaffolds.css  (6ms)  (pid 13038)
+Compiled sessions.css  (0ms)  (pid 13038)
+Compiled users.css  (1ms)  (pid 13038)
+Compiled application.css  (1140ms)  (pid 13038)
+Compiled jquery.js  (77ms)  (pid 13038)
+Compiled jquery_ujs.js  (0ms)  (pid 13038)
+Compiled bootstrap.js  (77ms)  (pid 13038)
+Compiled pages.js  (0ms)  (pid 13038)
+Compiled rezepts.js  (0ms)  (pid 13038)
+Compiled sessions.js  (0ms)  (pid 13038)
+Compiled users.js  (0ms)  (pid 13038)
+Compiled application.js  (201ms)  (pid 13038)
+Completed 200 OK in 1707ms (Views: 1706.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-08-28 11:23:46 +0200
+Served asset /bootstrap_and_overrides.css - 200 OK (29ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2012-08-28 11:23:46 +0200
+Served asset /pages.css - 200 OK (2ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-08-28 11:23:46 +0200
+Served asset /scaffolds.css - 200 OK (3ms)
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2012-08-28 11:23:46 +0200
+Served asset /sessions.css - 200 OK (2ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2012-08-28 11:23:46 +0200
+Served asset /users.css - 200 OK (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:46 +0200
+Served asset /jquery.js - 200 OK (97ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-28 11:23:46 +0200
+Served asset /application.css - 200 OK (25ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:46 +0200
+Served asset /jquery_ujs.js - 200 OK (10ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:46 +0200
+Served asset /bootstrap.js - 200 OK (2ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:46 +0200
+Served asset /pages.js - 200 OK (6ms)
+
+
+Started GET "/assets/rezepts.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:46 +0200
+Served asset /rezepts.js - 200 OK (2ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:46 +0200
+Served asset /users.js - 200 OK (4ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:46 +0200
+Served asset /application.js - 200 OK (18ms)
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:46 +0200
+Served asset /sessions.js - 200 OK (2ms)
+
+
+Started GET "/assets/facebook.png" for 127.0.0.1 at 2012-08-28 11:23:46 +0200
+Served asset /facebook.png - 200 OK (4ms)
+
+
+Started GET "/assets/stevia%20kraut.jpg" for 127.0.0.1 at 2012-08-28 11:23:46 +0200
+Served asset /stevia%20kraut.jpg - 200 OK (12ms)
+
+
+Started GET "/assets/twitter.png" for 127.0.0.1 at 2012-08-28 11:23:46 +0200
+Served asset /twitter.png - 200 OK (4ms)
+
+
+Started GET "/assets/gplus.png" for 127.0.0.1 at 2012-08-28 11:23:46 +0200
+Served asset /gplus.png - 200 OK (10ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-28 11:23:49 +0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 40ms (Views: 39.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-28 11:23:49 +0200
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-08-28 11:23:49 +0200
+Served asset /scaffolds.css - 200 OK (0ms)
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2012-08-28 11:23:49 +0200
+Served asset /sessions.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2012-08-28 11:23:49 +0200
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-08-28 11:23:49 +0200
+Served asset /bootstrap_and_overrides.css - 200 OK (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2012-08-28 11:23:49 +0200
+Served asset /pages.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:49 +0200
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:49 +0200
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:49 +0200
+Served asset /bootstrap.js - 200 OK (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:49 +0200
+Served asset /pages.js - 200 OK (0ms)
+
+
+Started GET "/assets/rezepts.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:49 +0200
+Served asset /rezepts.js - 200 OK (0ms)
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:49 +0200
+Served asset /sessions.js - 200 OK (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:49 +0200
+Served asset /users.js - 200 OK (0ms)
+
+
+Started GET "/assets/stevia%20produkte.jpg" for 127.0.0.1 at 2012-08-28 11:23:50 +0200
+Served asset /stevia%20produkte.jpg - 200 OK (5ms)
+
+
+Started GET "/assets/stevia%20gesundheit.jpg" for 127.0.0.1 at 2012-08-28 11:23:50 +0200
+Served asset /stevia%20gesundheit.jpg - 200 OK (5ms)
+
+
+Started GET "/assets/kuchen.jpg" for 127.0.0.1 at 2012-08-28 11:23:50 +0200
+Served asset /kuchen.jpg - 200 OK (5ms)
+
+
+Started GET "/assets/Honigkraut.jpg" for 127.0.0.1 at 2012-08-28 11:23:50 +0200
+Served asset /Honigkraut.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:50 +0200
+Served asset /application.js - 200 OK (1ms)
+
+
+Started GET "/assets/twitter.png" for 127.0.0.1 at 2012-08-28 11:23:50 +0200
+Served asset /twitter.png - 200 OK (0ms)
+
+
+Started GET "/assets/facebook.png" for 127.0.0.1 at 2012-08-28 11:23:50 +0200
+Served asset /facebook.png - 200 OK (0ms)
+
+
+Started GET "/assets/stevia%20kraut.jpg" for 127.0.0.1 at 2012-08-28 11:23:50 +0200
+Served asset /stevia%20kraut.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/gplus.png" for 127.0.0.1 at 2012-08-28 11:23:50 +0200
+Served asset /gplus.png - 200 OK (0ms)
+
+
+Started GET "/stevia_gesundheit/" for 127.0.0.1 at 2012-08-28 11:23:54 +0200
+Processing by PagesController#stevia_gesundheit as HTML
+  Rendered pages/stevia_gesundheit.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 58ms (Views: 57.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2012-08-28 11:23:54 +0200
+Served asset /sessions.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-28 11:23:54 +0200
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-08-28 11:23:54 +0200
+Served asset /bootstrap_and_overrides.css - 200 OK (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-08-28 11:23:54 +0200
+Served asset /scaffolds.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2012-08-28 11:23:54 +0200
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2012-08-28 11:23:54 +0200
+Served asset /pages.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:54 +0200
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:54 +0200
+Served asset /jquery_ujs.js - 200 OK (1ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:54 +0200
+Served asset /bootstrap.js - 200 OK (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:54 +0200
+Served asset /pages.js - 200 OK (0ms)
+
+
+Started GET "/assets/rezepts.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:54 +0200
+Served asset /rezepts.js - 200 OK (0ms)
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:54 +0200
+Served asset /sessions.js - 200 OK (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:54 +0200
+Served asset /users.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-28 11:23:54 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter.png" for 127.0.0.1 at 2012-08-28 11:23:55 +0200
+Served asset /twitter.png - 200 OK (0ms)
+
+
+Started GET "/assets/gplus.png" for 127.0.0.1 at 2012-08-28 11:23:55 +0200
+Served asset /gplus.png - 200 OK (0ms)
+
+
+Started GET "/assets/facebook.png" for 127.0.0.1 at 2012-08-28 11:23:55 +0200
+Served asset /facebook.png - 200 OK (0ms)
+
+
+Started GET "/assets/stevia%20kraut.jpg" for 127.0.0.1 at 2012-08-28 11:23:55 +0200
+Served asset /stevia%20kraut.jpg - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-28 11:24:10 +0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 45ms (Views: 45.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-28 11:24:10 +0200
+Served asset /application.css - 200 OK (1ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-08-28 11:24:10 +0200
+Served asset /scaffolds.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:10 +0200
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2012-08-28 11:24:10 +0200
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:10 +0200
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:10 +0200
+Served asset /bootstrap.js - 200 OK (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2012-08-28 11:24:10 +0200
+Served asset /pages.css - 200 OK (0ms)
+
+
+Started GET "/assets/rezepts.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:10 +0200
+Served asset /rezepts.js - 200 OK (0ms)
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2012-08-28 11:24:10 +0200
+Served asset /sessions.css - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-08-28 11:24:10 +0200
+Served asset /bootstrap_and_overrides.css - 200 OK (0ms)
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:10 +0200
+Served asset /sessions.js - 200 OK (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:10 +0200
+Served asset /users.js - 200 OK (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:10 +0200
+Served asset /pages.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:10 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter.png" for 127.0.0.1 at 2012-08-28 11:24:11 +0200
+Served asset /twitter.png - 200 OK (0ms)
+
+
+Started GET "/assets/kuchen.jpg" for 127.0.0.1 at 2012-08-28 11:24:11 +0200
+Served asset /kuchen.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/stevia%20produkte.jpg" for 127.0.0.1 at 2012-08-28 11:24:11 +0200
+Served asset /stevia%20produkte.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/stevia%20kraut.jpg" for 127.0.0.1 at 2012-08-28 11:24:11 +0200
+Served asset /stevia%20kraut.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/Honigkraut.jpg" for 127.0.0.1 at 2012-08-28 11:24:11 +0200
+Served asset /Honigkraut.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/stevia%20gesundheit.jpg" for 127.0.0.1 at 2012-08-28 11:24:11 +0200
+Served asset /stevia%20gesundheit.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/facebook.png" for 127.0.0.1 at 2012-08-28 11:24:11 +0200
+Served asset /facebook.png - 200 OK (0ms)
+
+
+Started GET "/assets/gplus.png" for 127.0.0.1 at 2012-08-28 11:24:11 +0200
+Served asset /gplus.png - 200 OK (0ms)
+
+
+Started GET "/stevia_pflanze/" for 127.0.0.1 at 2012-08-28 11:24:14 +0200
+Processing by PagesController#stevia_pflanze as HTML
+  Rendered pages/stevia_pflanze.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 32ms (Views: 31.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-28 11:24:14 +0200
+Served asset /application.css - 200 OK (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:14 +0200
+Served asset /jquery.js - 200 OK (31ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2012-08-28 11:24:14 +0200
+Served asset /pages.css - 200 OK (0ms)
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2012-08-28 11:24:14 +0200
+Served asset /sessions.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2012-08-28 11:24:14 +0200
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-08-28 11:24:14 +0200
+Served asset /scaffolds.css - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-08-28 11:24:14 +0200
+Served asset /bootstrap_and_overrides.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:14 +0200
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:14 +0200
+Served asset /bootstrap.js - 200 OK (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:14 +0200
+Served asset /pages.js - 200 OK (0ms)
+
+
+Started GET "/assets/rezepts.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:14 +0200
+Served asset /rezepts.js - 200 OK (0ms)
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:14 +0200
+Served asset /sessions.js - 200 OK (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:14 +0200
+Served asset /users.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-28 11:24:14 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/stevia.jpg" for 127.0.0.1 at 2012-08-28 11:24:14 +0200
+Served asset /stevia.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/twitter.png" for 127.0.0.1 at 2012-08-28 11:24:15 +0200
+Served asset /twitter.png - 200 OK (0ms)
+
+
+Started GET "/assets/facebook.png" for 127.0.0.1 at 2012-08-28 11:24:15 +0200
+Served asset /facebook.png - 200 OK (0ms)
+
+
+Started GET "/assets/gplus.png" for 127.0.0.1 at 2012-08-28 11:24:15 +0200
+Served asset /gplus.png - 200 OK (0ms)
+
+
+Started GET "/assets/stevia%20kraut.jpg" for 127.0.0.1 at 2012-08-28 11:24:15 +0200
+Served asset /stevia%20kraut.jpg - 200 OK (0ms)
