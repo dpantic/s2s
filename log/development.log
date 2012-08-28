@@ -2034,3 +2034,414 @@ Served asset /gplus.png - 200 OK (0ms)
 
 Started GET "/assets/stevia%20kraut.jpg" for 127.0.0.1 at 2012-08-28 11:30:52 +0200
 Served asset /stevia%20kraut.jpg - 200 OK (0ms)
+
+
+Started GET "/stevia_gesundheit" for 127.0.0.1 at 2012-08-28 11:46:53 +0200
+Connecting to database specified by database.yml
+Processing by PagesController#stevia_gesundheit as HTML
+  Rendered pages/stevia_gesundheit.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 179ms (Views: 178.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /bootstrap_and_overrides.css - 200 OK (5ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /scaffolds.css - 200 OK (3ms)
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /sessions.css - 200 OK (2ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /pages.css - 200 OK (2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /application.css - 200 OK (15ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /users.css - 200 OK (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /jquery.js - 200 OK (4ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /jquery_ujs.js - 200 OK (8ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /twitter/bootstrap/bootstrap-transition.js - 200 OK (6ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /twitter/bootstrap/bootstrap-alert.js - 200 OK (9ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /twitter/bootstrap/bootstrap-modal.js - 200 OK (20ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 200 OK (5ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 200 OK (5ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /twitter/bootstrap/bootstrap-tab.js - 200 OK (81ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 200 OK (5ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /twitter/bootstrap/bootstrap-popover.js - 200 OK (8ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /twitter/bootstrap/bootstrap-button.js - 200 OK (5ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 200 OK (5ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 200 OK (8ms)
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /sessions.js - 200 OK (2ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /twitter/bootstrap.js - 200 OK (37ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /bootstrap.js - 200 OK (2ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /pages.js - 200 OK (3ms)
+
+
+Started GET "/assets/rezepts.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /rezepts.js - 200 OK (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 200 OK (12ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /users.js - 200 OK (6ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /application.js - 200 OK (39ms)
+
+
+Started GET "/assets/stevia%20kraut.jpg" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /stevia%20kraut.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/gplus.png" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /gplus.png - 200 OK (3ms)
+
+
+Started GET "/assets/twitter.png" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /twitter.png - 200 OK (2ms)
+
+
+Started GET "/assets/facebook.png" for 127.0.0.1 at 2012-08-28 11:46:54 +0200
+Served asset /facebook.png - 200 OK (6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 100ms (Views: 99.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /bootstrap_and_overrides.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /twitter/bootstrap/bootstrap-transition.js - 200 OK (0ms)
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /sessions.css - 200 OK (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /scaffolds.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /twitter/bootstrap/bootstrap-tab.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /twitter/bootstrap/bootstrap-alert.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /twitter/bootstrap/bootstrap-modal.js - 200 OK (2ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /twitter/bootstrap/bootstrap-popover.js - 200 OK (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /pages.css - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /twitter/bootstrap/bootstrap-button.js - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /bootstrap.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 200 OK (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /pages.js - 200 OK (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /users.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 200 OK (0ms)
+
+
+Started GET "/assets/stevia%20produkte.jpg" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /stevia%20produkte.jpg - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /application.js - 200 OK (2ms)
+
+
+Started GET "/assets/rezepts.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /rezepts.js - 200 OK (0ms)
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /sessions.js - 200 OK (0ms)
+
+
+Started GET "/assets/Honigkraut.jpg" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /Honigkraut.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /twitter/bootstrap.js - 200 OK (1ms)
+
+
+Started GET "/assets/kuchen.jpg" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /kuchen.jpg - 200 OK (2ms)
+
+
+Started GET "/assets/stevia%20gesundheit.jpg" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /stevia%20gesundheit.jpg - 200 OK (3ms)
+
+
+Started GET "/assets/twitter.png" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /twitter.png - 200 OK (0ms)
+
+
+Started GET "/assets/facebook.png" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /facebook.png - 200 OK (0ms)
+
+
+Started GET "/assets/gplus.png" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /gplus.png - 200 OK (0ms)
+
+
+Started GET "/assets/stevia%20kraut.jpg" for 127.0.0.1 at 2012-08-28 11:46:58 +0200
+Served asset /stevia%20kraut.jpg - 200 OK (0ms)
+
+
+Started GET "/was_ist_stevia" for 127.0.0.1 at 2012-08-28 11:47:02 +0200
+Processing by PagesController#was_ist_stevia as HTML
+  Rendered pages/was_ist_stevia.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 134ms (Views: 133.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /sessions.css - 200 OK (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /pages.css - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /twitter/bootstrap/bootstrap-transition.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /twitter/bootstrap/bootstrap-modal.js - 200 OK (1ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /bootstrap_and_overrides.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /scaffolds.css - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /twitter/bootstrap/bootstrap-alert.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /twitter/bootstrap/bootstrap-popover.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /twitter/bootstrap/bootstrap-button.js - 200 OK (1ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /twitter/bootstrap/bootstrap-tab.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /twitter/bootstrap.js - 200 OK (1ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 200 OK (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /pages.js - 200 OK (0ms)
+
+
+Started GET "/assets/rezepts.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /rezepts.js - 200 OK (0ms)
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /sessions.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /bootstrap.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 200 OK (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /users.js - 200 OK (0ms)
+
+
+Started GET "/assets/stevia%20zucker.jpg" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /stevia%20zucker.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /application.js - 200 OK (3ms)
+
+
+Started GET "/assets/stevia%20pflanze.jpg" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /stevia%20pflanze.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/twitter.png" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /twitter.png - 200 OK (0ms)
+
+
+Started GET "/assets/gplus.png" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /gplus.png - 200 OK (0ms)
+
+
+Started GET "/assets/facebook.png" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
+Served asset /facebook.png - 200 OK (0ms)
