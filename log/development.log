@@ -2445,3 +2445,222 @@ Served asset /gplus.png - 200 OK (0ms)
 
 Started GET "/assets/facebook.png" for 127.0.0.1 at 2012-08-28 11:47:03 +0200
 Served asset /facebook.png - 200 OK (0ms)
+
+
+Started GET "/stevia_pflanze/" for 127.0.0.1 at 2012-08-28 11:55:17 +0200
+Connecting to database specified by database.yml
+Processing by PagesController#stevia_pflanze as HTML
+  Rendered pages/stevia_pflanze.html.erb within layouts/application (4.6ms)
+Completed 500 Internal Server Error in 95ms
+
+ActionView::Template::Error (Missing partial layouts/stylesheets with {:locale=>[:de], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "/Users/deki/s2s/app/views"
+  * "/Users/deki/.rvm/gems/ruby-1.9.2-p318/gems/twitter-bootstrap-rails-2.0.9/app/views"
+):
+    7:         <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+    8:       <![endif]-->
+    9:       
+    10:       <%= render 'layouts/stylesheets' %>      
+    11:       <%= stylesheet_link_tag    "application", :media => "all" %>
+    12:       <%= javascript_include_tag "application" %>
+    13:       <%= csrf_meta_tags %>
+  app/views/layouts/application.html.erb:10:in `_app_views_layouts_application_html_erb___2573972894806957726_2175126860'
+
+
+  Rendered /Users/deki/.rvm/gems/ruby-1.9.2-p318/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.9ms)
+  Rendered /Users/deki/.rvm/gems/ruby-1.9.2-p318/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/deki/.rvm/gems/ruby-1.9.2-p318/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (67.5ms)
+
+
+Started GET "/stevia_pflanze/" for 127.0.0.1 at 2012-08-28 11:55:42 +0200
+Processing by PagesController#stevia_pflanze as HTML
+  Rendered pages/stevia_pflanze.html.erb within layouts/application (0.6ms)
+Compiled bootstrap_and_overrides.css.css  (33ms)  (pid 13382)
+Compiled application.css  (44ms)  (pid 13382)
+Completed 200 OK in 200ms (Views: 199.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-28 11:55:42 +0200
+Served asset /application.css - 200 OK (17ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css.css?body=1" for 127.0.0.1 at 2012-08-28 11:55:42 +0200
+Served asset /bootstrap_and_overrides.css.css - 200 OK (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:42 +0200
+Served asset /jquery_ujs.js - 200 OK (5ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-08-28 11:55:42 +0200
+Served asset /scaffolds.css - 200 OK (2ms)
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2012-08-28 11:55:42 +0200
+Served asset /sessions.css - 200 OK (2ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2012-08-28 11:55:42 +0200
+Served asset /users.css - 200 OK (2ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2012-08-28 11:55:42 +0200
+Served asset /pages.css - 200 OK (3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:42 +0200
+Served asset /jquery.js - 200 OK (5ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:42 +0200
+Served asset /twitter/bootstrap/bootstrap-transition.js - 200 OK (5ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:42 +0200
+Served asset /twitter/bootstrap/bootstrap-alert.js - 200 OK (10ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:42 +0200
+Served asset /twitter/bootstrap/bootstrap-modal.js - 200 OK (4ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:42 +0200
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 200 OK (5ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:42 +0200
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 200 OK (4ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 200 OK (10ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /twitter/bootstrap/bootstrap-tab.js - 200 OK (4ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /twitter/bootstrap/bootstrap-popover.js - 200 OK (5ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /twitter/bootstrap/bootstrap-button.js - 200 OK (65ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 200 OK (9ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 200 OK (4ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 200 OK (11ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /twitter/bootstrap.js - 200 OK (17ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /pages.js - 200 OK (3ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /bootstrap.js - 200 OK (2ms)
+
+
+Started GET "/assets/rezepts.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /rezepts.js - 200 OK (2ms)
+
+
+Started GET "/assets/bootstrap" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /bootstrap - 200 OK (2ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /users.js - 200 OK (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /application.js - 200 OK (33ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /twitter/bootstrap/bootstrap - 404 Not Found (10ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/twitter/bootstrap/bootstrap"):
+  actionpack (3.2.6) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.6) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.6) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.6) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.6) lib/rails/engine.rb:479:in `call'
+  railties (3.2.6) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.6) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/deki/.rvm/rubies/ruby-1.9.2-p318/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /Users/deki/.rvm/rubies/ruby-1.9.2-p318/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /Users/deki/.rvm/rubies/ruby-1.9.2-p318/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+  Rendered /Users/deki/.rvm/gems/ruby-1.9.2-p318/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/assets/twitter/bootstrap/responsive" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /twitter/bootstrap/responsive - 404 Not Found (12ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/twitter/bootstrap/responsive"):
+  actionpack (3.2.6) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.6) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.6) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.6) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.6) lib/rails/engine.rb:479:in `call'
+  railties (3.2.6) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.6) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/deki/.rvm/rubies/ruby-1.9.2-p318/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /Users/deki/.rvm/rubies/ruby-1.9.2-p318/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /Users/deki/.rvm/rubies/ruby-1.9.2-p318/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+  Rendered /Users/deki/.rvm/gems/ruby-1.9.2-p318/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /sessions.js - 200 OK (11ms)
+
+
+Started GET "/assets/twitter.png" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /twitter.png - 200 OK (4ms)
+
+
+Started GET "/assets/facebook.png" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /facebook.png - 200 OK (2ms)
+
+
+Started GET "/assets/gplus.png" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /gplus.png - 200 OK (2ms)
+
+
+Started GET "/assets/stevia%20kraut.jpg" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /stevia%20kraut.jpg - 200 OK (1ms)
+
+
+Started GET "/assets/stevia.jpg" for 127.0.0.1 at 2012-08-28 11:55:43 +0200
+Served asset /stevia.jpg - 200 OK (2ms)
