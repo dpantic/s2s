@@ -1,0 +1,23 @@
+<% provide(:title, @user.name) %>
+<div class="row">
+  <aside class="span4">
+    <section>
+      <h1>
+        
+        <%= @user.name %>
+      </h1>
+    </section>
+  </aside>
+
+  <div class="span8">
+      <% if @user.rezepts.any? %>
+        <h3>Rezepte (<%= @user.rezepts.count %>)</h3>
+        <ol class="rezepts">
+          <%= render @rezepte %>
+        </ol>
+        <%= will_paginate @rezepte %>
+      <% end %>
+    </div>
+
+</div>
+

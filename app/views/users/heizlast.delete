@@ -1,0 +1,31 @@
+<% provide(:title, 'Heizlast') %>
+<h1>Heizlast Berechnung</h1>
+
+
+<form accept-charset="UTF-8" action="" class="test"
+      id="test" method="post">
+
+  <label for="Volumen">Volumen</label>
+  <input type="volumen" name="user[raumvolumen]" size="10" type="integer" />
+
+  <label for="Temp-differenz">Temperaturdifferenz</label>
+  <input type="tempdiff" name="user[tempdiff]" size="10" type="integer" />
+
+  <label for="k-Wert">k-Wert</label>
+  <input type="kwert" name="user[k-Wert]" size="10" type="integer" />
+
+  <label for="unesi 1.16">watt</label>
+  <input type="wkcal" name="user[unesi]" size="10" type="integer" />
+
+  <input class="btn btn-large btn-primary" name="integer"  onclick="alert(eval(this.form.integer.value))"
+         value="Iznos je..." />
+         <input type="button" value="Berechnen" onclick="alert(eval(this.form.integer.value))">
+         
+         
+</form>
+
+<form action="">
+<input type="name" size="10" name="xxx">
+<input type="name" size="10" name="yyy">
+<input type="button" value="Berechnen" onclick="alert())">
+</form>
