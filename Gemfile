@@ -22,10 +22,11 @@ end
 
 # Meta tags
 gem 'metamagic'
-gem 'twitter-bootstrap-rails', '~> 2.0.5'
+#gem 'twitter-bootstrap-rails', '~> 2.0.5'
 gem 'bootstrap-sass', '2.0.0'
 gem 'bcrypt-ruby', '3.0.1'
 gem 'annotate', '2.5.0', group: :development
+
 
 gem 'database_cleaner', '0.7.0'
 
