@@ -11,8 +11,7 @@ S2s::Application.routes.draw do
   #match "/home" => "home#index"
    root :to                  => 'pages#home', :as => :home
    
-
-  match "/signup", to: "pages#stevia_rezepte" 
+#match "/signup", to: "pages#stevia_rezepte" 
   match "/stevia"            => "pages#stevia"
   match "/stevia_kaufen"     => "pages#stevia_kaufen"
 
